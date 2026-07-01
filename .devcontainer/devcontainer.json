@@ -5,8 +5,8 @@
   "workspaceFolder": "/workspace",
   "forwardPorts": [1433],
   "customizations": {
-  "vscode": {
-  "extensions": ["ms-mssql.mssql"]
+    "vscode": {
+      "extensions": ["ms-mssql.mssql"]
     }
   }
 }
